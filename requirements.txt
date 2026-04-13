@@ -44,6 +44,7 @@ google-resumable-media==2.8.0
 google_search_results==2.4.2
 googleapis-common-protos==1.72.0
 graphviz==0.21
+greenlet==3.4.0
 grpc-google-iam-v1==0.14.3
 grpc-interceptor==0.15.4
 grpcio==1.76.0
