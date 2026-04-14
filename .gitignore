@@ -3,3 +3,5 @@ __pycache__
 
 .env
 research_data.db
+
+.DS_Store
